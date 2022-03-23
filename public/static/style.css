@@ -1,0 +1,120 @@
+.colorPrimary {
+    color: #fff;
+    background-color: #fe0002;
+    border-color: #fe0002;
+  }
+  .colorSuccess {
+    color: #fff;
+    background-color: #fe0002;
+    border-color: #fe0002;
+  }
+  .colorDanger {
+    color: #fff;
+    background-color: #f56c6c;
+    border-color: #f56c6c;
+  }
+  .colorInfo {
+    color: #fff;
+    background-color: #fe0002;
+    border-color: #fe0002;
+  }
+  .colorWarning {
+    color: #fff;
+    background-color: #fe0002;
+    border-color: #fe0002;
+  }
+  .submit {
+    color: #000000;
+    background-color: #ffff01;
+    border-color: #ffff01;
+  }
+  .colorPrimary:hover {
+    color: #fff;
+    border-color: #fe0002;
+    background-color: #fe0002a1;
+  }
+  .colorPrimary:active {
+    color: #fff;
+    border-color: #fe0002;
+    background-color: #fe0002a1;
+  }
+  .colorPrimary:focus {
+    color: #fff;
+    border-color: #fe0002;
+    background-color: #fe0002a1;
+  }
+  .submit:hover {
+    color: #fff;
+    border-color: #faff71;
+    background-color: #d8d823;
+  }
+  .submit:active {
+    color: #fff;
+    border-color: #faff71;
+    background-color: #d8d823;
+  }
+  .submit:focus {
+    color: #fff;
+    border-color: #faff71;
+    background-color: #d8d823;
+  }
+  .el-table td, .el-table th {
+    padding: 0px 0;
+    text-align: center;
+  }
+  .el-table__expanded-cell[class*=cell] {
+    padding: 10px 50px;
+    text-align: start;
+  }
+  .is-error .el-input__inner {
+    border-color: #f56c6c;
+  }
+  .is-error .el-textarea__inner {
+    border-color: #f56c6c;
+  }
+  .text-error {
+    color: #f56c6c;
+  }
+  .tile-pink {
+    background-color: #ec407a;
+  }
+  .tile-pink:hover {
+    background-color: #d81b60;
+  }
+  .tile-purple {
+    background-color: #ab47bc;
+  }
+  .tile-purple:hover {
+      background-color: #8e24aa;
+  }
+  .tile-indigo {
+    background-color: #5c6bc0;
+  }
+  .tile-indigo:hover {
+      background-color: #3949ab;
+  }
+  .tile-deep-orange {
+    background-color: #ff7043;
+  }
+  .tile-deep-orange:hover {
+    background-color: #f4511e;
+  }
+  .tile-light-green {
+    background-color: #9ccc65;
+  }
+  .tile-light-green:hover {
+    background-color: #7cb342;
+  }
+  .tile-red {
+    background-color: #e84e40;
+  }
+  .tile-red:hover {
+    background-color: #dd191d;
+  }
+  .tile-amber {
+    background-color: #ffca28;
+  }
+  .tile-amber:hover {
+    background-color: #ffb300;
+  }
+  
